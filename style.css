@@ -1,0 +1,6 @@
+.bodybg {
+    -fx-background-image: url("./images/court.gif");
+    -fx-background-size: cover;  /* Scales the image to cover the entire region */
+    -fx-background-position: center; /* Centers the image */
+    -fx-background-repeat: no-repeat; /* Prevents repeating */
+}
